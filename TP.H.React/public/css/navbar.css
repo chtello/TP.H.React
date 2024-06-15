@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: baseline;
+    margin: -0.5%;
+    margin-left: -5%;
+    height: 10%;
+    width: 105%;
+    color: antiquewhite;
+    background-color: rgb(51, 85, 133);
+}
+.contador{
+    align-items: baseline;
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+    width: 100%;
+}
+.but{
+    background-color: #333;
+    height: 10%;
+    color: antiquewhite;
+}
+.logo{
+    height: 40%;
+    width: 50%;
+}
+.text{
+    align-items: baseline;
+    color: antiquewhite;
+}
